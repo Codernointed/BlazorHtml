@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\InventoryDashboard.csproj": {}
+    "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\InventoryDashboard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\InventoryDashboard.csproj": {
+    "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\InventoryDashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\InventoryDashboard.csproj",
+        "projectUniqueName": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\InventoryDashboard.csproj",
         "projectName": "InventoryDashboard",
-        "projectPath": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\InventoryDashboard.csproj",
-        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\obj\\",
+        "projectPath": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\InventoryDashboard.csproj",
+        "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

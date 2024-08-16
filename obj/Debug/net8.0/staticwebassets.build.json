@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VGoo1aVg+UHnuAJIrC5qBdzUP/2HhTblHI6zeytGUow=",
+  "Hash": "uBZmbNBqCHa8BxYj0twIKAyEWGAIy2UwgwYYcVQTqXM=",
   "Source": "InventoryDashboard",
   "BasePath": "_content/InventoryDashboard",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "InventoryDashboard\\wwwroot",
       "Source": "InventoryDashboard",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\obj\\Debug\\net8.0\\scopedcss\\bundle\\InventoryDashboard.styles.css",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\obj\\Debug\\net8.0\\scopedcss\\bundle\\InventoryDashboard.styles.css",
       "SourceId": "InventoryDashboard",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "InventoryDashboard.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\obj\\Debug\\net8.0\\scopedcss\\bundle\\InventoryDashboard.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\obj\\Debug\\net8.0\\scopedcss\\bundle\\InventoryDashboard.styles.css"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InventoryDashboard.bundle.scp.css",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InventoryDashboard.bundle.scp.css",
       "SourceId": "InventoryDashboard",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "InventoryDashboard.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InventoryDashboard.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InventoryDashboard.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\app.css",
       "SourceId": "InventoryDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\bootstrap.min.css",
       "SourceId": "InventoryDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\bootstrap.min.css.map",
       "SourceId": "InventoryDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\bootstrap.min.js",
       "SourceId": "InventoryDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "bootstrap.min.js",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\Chart.min.js",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\Chart.min.js",
       "SourceId": "InventoryDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "Chart.min.js",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\dashboard.css",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\dashboard.css",
       "SourceId": "InventoryDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "dashboard.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\dashboard.css"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\favicon.png",
       "SourceId": "InventoryDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\feather.min.js",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\feather.min.js",
       "SourceId": "InventoryDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "feather.min.js",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\feather.min.js"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\jquery-3.2.1.slim.min.js",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\jquery-3.2.1.slim.min.js",
       "SourceId": "InventoryDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "jquery-3.2.1.slim.min.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-3.2.1.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\logo.png",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\logo.png",
       "SourceId": "InventoryDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "logo.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\popper.min.js",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\popper.min.js",
       "SourceId": "InventoryDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "popper.min.js",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\signin.css",
+      "Identity": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\signin.css",
       "SourceId": "InventoryDashboard",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\",
       "BasePath": "_content/InventoryDashboard",
       "RelativePath": "signin.css",
       "AssetKind": "All",

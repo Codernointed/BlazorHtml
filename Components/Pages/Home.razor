@@ -1,5 +1,5 @@
 ﻿@page "/home"
-
+@inject Blazored.LocalStorage.ILocalStorageService localStorage
 <PageTitle>Dashboard</PageTitle>
 
 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
@@ -143,11 +143,29 @@
                   <td>in</td>
                   <td>libero</td>
                 </tr>
+                <tr>
+                <td>1,004</td>
+                <td>@(email ?? "test@test.com")</td> 
+                <td>@(password ?? "123456")</td> 
+                <td>example</td>
+                <td>data</td>
+            </tr>
               </tbody>
             </table>
                    <div class="my-4">
-    <h3>Stored User Information</h3>
-    <p>Email: UserEmail</p>
-    <p>Password: UserPassword</p>
+    @* <h3>Stored User Information</h3>
+    <p>Email: @email</p>
+    <p>Password: @password</p> *@
+    </div>
 </div>
-          </div>
+@code
+{
+  string? email;
+  string? password;
+
+  protected override async Task OnInitializedAsync(){
+    email = await localStorage.GetItemAsync<string>("email");
+    password = await localStorage.GetItemAsync<string>("password");
+    
+  }
+}

@@ -1,55 +1,55 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InventoryDashboard.bundle.scp.css",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InventoryDashboard.bundle.scp.css",
       "PackagePath": "staticwebassets\\InventoryDashboard.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\Chart.min.js",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\Chart.min.js",
       "PackagePath": "staticwebassets\\Chart.min.js"
     },
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\bootstrap.min.css",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\bootstrap.min.js",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\dashboard.css",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\dashboard.css",
       "PackagePath": "staticwebassets\\dashboard.css"
     },
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\feather.min.js",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\feather.min.js",
       "PackagePath": "staticwebassets\\feather.min.js"
     },
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\jquery-3.2.1.slim.min.js",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\jquery-3.2.1.slim.min.js",
       "PackagePath": "staticwebassets\\jquery-3.2.1.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\logo.png",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\logo.png",
       "PackagePath": "staticwebassets\\logo.png"
     },
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\popper.min.js",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\popper.min.js",
       "PackagePath": "staticwebassets\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\micha\\Downloads\\BlazorInventory\\InventoryDashboard\\wwwroot\\signin.css",
+      "Id": "C:\\Users\\Paul\\C#\\Blazor-Apps\\BlazorHtml\\wwwroot\\signin.css",
       "PackagePath": "staticwebassets\\signin.css"
     },
     {
